@@ -14,7 +14,7 @@ class Resto():
 
 if __name__ == '__main__':
     Pratik = Resto("Pratik", ["Roti", "Paratha", "Fried Rice", "Biryani", "Papad",
-                   "Pizza", "Momos", "Burgur", "Pasta", "Noodles", "Salad", "Soup"], "Food Corner")
+                   "Pizza", "Momos", "Burger", "Pasta", "Noodles", "Salad", "Soup"], "Food Corner")
 
     while True:
         print('Choose a Option:\n1. View Menu\n2.Order Food\n3.Give Feedback')
